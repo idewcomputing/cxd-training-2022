@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Computing by Design 2022](README.md)
