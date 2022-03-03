@@ -2,7 +2,7 @@
 
 ## Welcome to Our 2022 Online Summer Workshop Series!
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (2).png>)
 
 ## More details will be posted soon! 🕰
 
