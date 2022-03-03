@@ -2,8 +2,11 @@
 
 ## Welcome to Our 2021 Online Summer Workshop Series!&#x20;
 
-**June 8-10: PBL 101 Workshop**\
+![](.gitbook/assets/image.png)
+
 All about planning classroom management and assessments for projects.
+
+
 
 **June 13-17: Cross Disciplinary Workshops**\
 Choose from six short projects that blend computer science into other disciplines.
