@@ -2,21 +2,13 @@
 
 ## Welcome to Our 2021 Online Summer Workshop Series!&#x20;
 
+![](<.gitbook/assets/image (1).png>)
+
+![](<.gitbook/assets/image (2).png>)
+
+![](<.gitbook/assets/image (3).png>)
+
 ![](.gitbook/assets/image.png)
-
-All about planning classroom management and assessments for projects.
-
-
-
-**June 13-17: Cross Disciplinary Workshops**\
-Choose from six short projects that blend computer science into other disciplines.
-
-**June 20-24: Programming Workshops**\
-****Choose from Trivia, Chatbot, Robot, Video Game, IoT, and Data Visualization programming.
-
-**June 27-July 1: Innovation Workshop**\
-Prepare for a full computer science experience with projects.\
-<mark style="background-color:blue;">★ This workshop is in person as part of CSPD week</mark>
 
 
 
