@@ -1,14 +1,8 @@
 # Computing by Design 2022
 
-## Welcome to Our 2021 Online Summer Workshop Series!&#x20;
-
-![](<.gitbook/assets/image (1).png>)
-
-![](<.gitbook/assets/image (2).png>)
+## Welcome to Our 2021 Online Summer Workshop Series!
 
 ![](<.gitbook/assets/image (3).png>)
-
-![](.gitbook/assets/image.png)
 
 
 
