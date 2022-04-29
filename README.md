@@ -2,7 +2,7 @@
 
 ## Welcome to Our 2022 Online Summer Workshop Series!
 
-![](<.gitbook/assets/image (2).png>)
+![](.gitbook/assets/schedule.png)
 
 {% hint style="success" %}
 ### Register 👉 [Here](https://iu.co1.qualtrics.com/jfe/form/SV\_43h61F7ieHxzRC6)
