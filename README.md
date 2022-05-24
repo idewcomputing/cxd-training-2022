@@ -2,9 +2,9 @@
 
 ## Welcome to Our 2022 Online Summer Workshop Series!
 
-Choose from the workshops summary below to meet your needs.&#x20;
+Choose one or more workshops to meet your needs.&#x20;
 
-👈 Find more detail on each workshop through the navigation to the left.
+👈 Find more details on each workshop through the navigation on the left.
 
 ![](.gitbook/assets/schedule.png)
 
