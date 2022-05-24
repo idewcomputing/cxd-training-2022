@@ -16,7 +16,7 @@
 
 ## **Workshop Resources**
 
-* **Slack Channel:** _#programming-chatbot_ in the CxD 2022 Slack Workspace
+* **Slack Channel:** _#ws-programming-chatbot_ in the CxD 2022 Slack Workspace
 * **Documentation Link:** [Chatbot Code Reference and Tutorial](https://docs.idew.org/code-chatbot/core-template)****
 * **Programming Platform:** [Replit.com](https://replit.com) is the recommended programming platform
 * **Zoom Video Conferences:** Link will be provided on Slack

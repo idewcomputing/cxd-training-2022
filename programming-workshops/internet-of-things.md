@@ -16,7 +16,7 @@
 
 ## **Workshop Resources**
 
-* **Slack Channel:** _#programming-iot_ in the CxD 2022 Slack Workspace
+* **Slack Channel:** _#ws-programming-iot_ in the CxD 2022 Slack Workspace
 * **Documentation Link:** [IoT Code Reference and Tutorials](https://docs.idew.org/code-internet-of-things/)****
 * **Programming Platforms**&#x20;
   * [Particle Build ](https://build.particle.io/)is the recommended programming platform for the IoT Board.

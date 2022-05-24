@@ -8,7 +8,7 @@
 
 The Computing by Design Innovation Workshop will cover the development of computer science projects through a three-phase process that goes from researching a problem, building a solution, and evaluating the solution. The project framework and prepared material will provide the guidance needed to plan a semester experience regardless of which technology the project employs.&#x20;
 
-This workshop is part of the CSPD Week for 2022.
+This project is part of the CSPD Week for 2022.
 
 {% embed url="https://indiana.csteachers.org/stories/save-the-date-for-indiana-cspd-week-2022" %}
 
