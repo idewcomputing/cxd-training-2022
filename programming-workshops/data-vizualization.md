@@ -16,7 +16,7 @@
 
 ## **Workshop Resources**
 
-* **Slack Channel:** _#ws-programming-data-viz_ in the CxD 2022 Slack Workspace
+* **Slack Channel:** _#programming-data-visualization_ in the CxD 2022 Slack Workspace
 * **Documentation Link:** [Data Visualization Programming Exercises](https://app.gitbook.com/@cxd/s/project-data-visualization-2/project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/\~/settings/integrations)****
 * **Spreadsheets:** Our examples will use Google Sheets
 * **Python:** We will use Google Colab to create a Python notebook in Google Drive.&#x20;
