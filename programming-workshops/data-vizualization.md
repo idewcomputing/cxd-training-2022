@@ -13,3 +13,12 @@
 {% endhint %}
 
 #### ⏱ Detailed agenda coming soon...
+
+## **Workshop Resources**
+
+* **Slack Channel:** _#ws-programming-data-viz_ in the CxD 2022 Slack Workspace
+* **Documentation Link:** [Data Visualization Programming Exercises](https://app.gitbook.com/@cxd/s/project-data-visualization-2/project-instructions/1-discover-and-define-problem/1-2-understand-technical-tools/\~/settings/integrations)****
+* **Spreadsheets:** Our examples will use Google Sheets
+* **Python:** We will use Google Colab to create a Python notebook in Google Drive.&#x20;
+* **Web Programming (HTML/CSS/JS):** [Replit.com](https://replit.com) is the recommended programming platform for web programming.
+* **Zoom Video Conferences:** A link will be provided on Slack
