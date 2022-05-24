@@ -1,6 +1,8 @@
-# Computing by Design 2022
+# Computing by Design 2022 🚀
 
 ## Welcome to Our 2022 Online Summer Workshop Series!
+
+Choose from the workshops below that meet your needs.&#x20;
 
 ![](.gitbook/assets/schedule.png)
 

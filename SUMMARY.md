@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Computing by Design 2022](README.md)
+* [Computing by Design 2022 🚀](README.md)
 
 ## Cross-Disciplinary Workshops
 
@@ -21,10 +21,10 @@
 
 * [Prepare a Full CS Experience](innovation-workshop/prepare-a-full-cs-experience.md)
 
-## resources
-
-* [CxD Home](https://docs.idew.org/the-cxd-framework/)
-
 ## PBLWorks 101 Workshop
 
 * [Managing CS Projects in Class](pblworks-101-workshop/managing-cs-projects-in-class.md)
+
+## resources
+
+* [Computing by Design Home](https://docs.idew.org/the-cxd-framework/)
