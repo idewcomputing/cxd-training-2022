@@ -2,6 +2,8 @@
 
 ### **Welcome and Getting Started**
 
+### **Video Introduction**
+
 {% embed url="https://www.loom.com/share/cb89819c47004d9f8cfa83303aeebacc" %}
 
 ### **Project Guide**
