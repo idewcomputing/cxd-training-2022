@@ -24,5 +24,5 @@ While the project guide, linked below, can be used as-is in your classroom, you 
    ****Use our Slack channel `#short-project-cs-for-math-and-science` to post questions/answers, to share things you have created or to share additional resources you have found.
 3. **Attend the live Zoom session on Thursday June 16, 11:30 am - 12:30 pm EDT ⏰**\
    ****The same Zoom link will be used for this meeting
-4. **Continue posting questions and sharing success in Slack `#cross-chart-data` ** as you complete your project example and adapted project instructions.
+4. **Continue posting questions and sharing success in Slack `#`**`short-project-cs-for-math-and-science` **** as you complete your project example and adapted project instructions.
 5. **Submit your project example and adapted project instructions for the workshop deliverable by July 11, 2022.  🎉**
