@@ -1,8 +1,8 @@
 # CS for Language Arts: Natural Language Processing
 
-### **Welcome and Getting Started**
+### **Welcome and Getting Started Video**
 
-![](../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/8e422512e9344d1b9d318ddc9b299584" %}
 
 ### **Project Guide**
 
