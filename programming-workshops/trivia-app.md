@@ -16,7 +16,7 @@
 
 ## Workshop Resources
 
-* **Slack Channel:** _#ws-programming-trivia_ in the CxD 2022 Slack Workspace
+* **Slack Channel:** _#programming-trivia-app_ in the CxD 2022 Slack Workspace
 * **Documentation Link:** [Trivia Code Reference and Tutorial](https://docs.idew.org/code-trivia-app/code-template/template-build-tutorial)****
 * **Programming Platform:** [Replit.com](https://replit.com) is the recommended programming platform
 * **Zoom Video Conferences:** Link will be provided on Slack

@@ -2,7 +2,11 @@
 
 ## Welcome to Our 2022 Online Summer Workshop Series!
 
-Choose one or more workshops to meet your needs.&#x20;
+{% embed url="https://www.loom.com/share/18c71d8920204245bdf764caa919e8e4" %}
+
+![](<.gitbook/assets/image (2).png>)
+
+### Choose one or more workshops to meet your needs.&#x20;
 
 👈 Find more details on each workshop through the navigation on the left.
 
