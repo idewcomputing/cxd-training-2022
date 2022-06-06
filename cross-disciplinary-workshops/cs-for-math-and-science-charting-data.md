@@ -1,8 +1,6 @@
 # CS for Math & Science: Charting Data
 
-### **Welcome and Getting Started**
-
-### **Video Introduction**
+### **Welcome and Getting Started Video**
 
 {% embed url="https://www.loom.com/share/cb89819c47004d9f8cfa83303aeebacc" %}
 
