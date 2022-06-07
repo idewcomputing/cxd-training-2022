@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-![](../../.gitbook/assets/vidComing.png)
+![](../.gitbook/assets/vidComing.png)
 
 ### Programming Workshop Sequence (June 20 - 24, 2022)
 
