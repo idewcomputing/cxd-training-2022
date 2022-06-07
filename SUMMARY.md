@@ -10,7 +10,14 @@
 
 ## Programming Workshops
 
-* [Trivia App](programming-workshops/trivia-app.md)
+* [Trivia App](programming-workshops/trivia-app/README.md)
+  * [Workshop Prep](programming-workshops/trivia-app/workshop-prep.md)
+  * [Live Zoom: Mon 1:00 pm ⏰](programming-workshops/trivia-app/live-zoom-mon-1-00-pm.md)
+  * [Programming Warm-Up ⏱](programming-workshops/trivia-app/programming-warm-up.md)
+  * [Teacher Insights](programming-workshops/trivia-app/teacher-insights.md)
+  * [Program a Trivia App ⏱](programming-workshops/trivia-app/program-a-trivia-app.md)
+  * [Live Zoom: Wed 11:30 am ⏰](programming-workshops/trivia-app/live-zoom-wed-11-30-am.md)
+  * [Workshop Deliverables](programming-workshops/trivia-app/workshop-deliverables.md)
 * [Chatbot](programming-workshops/chatbot.md)
 * [Data Vizualization](programming-workshops/data-vizualization.md)
 * [Robotics](programming-workshops/robotics.md)
