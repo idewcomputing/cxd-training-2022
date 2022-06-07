@@ -11,5 +11,3 @@ The Computing by Design Innovation Workshop will cover the development of comput
 This workshop is part of the CSPD Week for 2022.
 
 {% embed url="https://indiana.csteachers.org/stories/save-the-date-for-indiana-cspd-week-2022" %}
-
-#### ⏱ Detailed agenda for this workshop is coming soon...
