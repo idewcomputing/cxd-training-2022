@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-![](../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/a91f307424464eb6ad421eb79e016d01" %}
 
 ### Programming Workshop Sequence (June 20 - 24, 2022)
 
@@ -11,8 +11,6 @@
 {% hint style="warning" %}
 ### All posted times are Eastern Daylight Time (EDT)
 {% endhint %}
-
-#### ⏱ Detailed agenda coming soon...
 
 ## **Workshop Resources**
 
