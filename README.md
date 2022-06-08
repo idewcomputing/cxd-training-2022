@@ -10,7 +10,7 @@
 
 👈 Find more details on each workshop through the navigation on the left.
 
-![](.gitbook/assets/schedule.png)
+![](.gitbook/assets/cxd2022.png)
 
 {% hint style="success" %}
 ### Register 👉 [Here](https://iu.co1.qualtrics.com/jfe/form/SV\_43h61F7ieHxzRC6)
