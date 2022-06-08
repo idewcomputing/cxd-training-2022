@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-![](../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/9ad6c322f28640ef94908e9edda7ea60" %}
 
 ### Programming Workshop Sequence (June 20 - 24, 2022)
 
