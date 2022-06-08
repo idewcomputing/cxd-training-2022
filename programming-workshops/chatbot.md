@@ -15,7 +15,9 @@
 ## **Workshop Resources**
 
 * **Slack Channel:** _#programming-chatbot_ in the CxD 2022 Slack Workspace
-* **Documentation Link:** [Chatbot Code Reference and Tutorial](https://docs.idew.org/code-chatbot/core-template)****
+* **Documentation Link:** [Chatbot Code Reference and Tutorial](https://docs.idew.org/code-chatbot/core-template)\
+  Note: The CxD chatbot project provides two online documents. One document for the broader project instructions that include things like research, design and implementation. The second document is a code reference for programming. In this workshop we will focus on the programming and use the _code reference document._\
+  __![](<../.gitbook/assets/image (5).png>)__
 * **Programming Platform:** [Replit.com](https://replit.com) is the recommended programming platform
 * **Zoom Video Conferences:** Link will be provided on Slack
 * **Recommended Programming Supplements**: See [**this page**](https://docs.idew.org/project-chatbot/challenge-and-background/skills-and-exploration).

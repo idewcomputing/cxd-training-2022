@@ -17,6 +17,8 @@
 ## **Workshop Resources**
 
 * **Slack Channel:** _#programming-wheeled-robot_ in the CxD 2022 Slack Workspace
-* **Documentation Link:** [Robot Code Reference and Tutorials](https://docs.idew.org/code-robotics/)****
+* **Documentation Link:** [Robot Code Reference and Tutorials](https://docs.idew.org/code-robotics/)\
+  Note: The CxD robot project provides two online documents. One document for the broader project instructions that include things like research, design and implementation. The second document is a code reference for programming. In this workshop we will focus on the programming and use the _code reference document._\
+  __![](<../.gitbook/assets/image (5).png>)__
 * **Programming Platform:** [Arduino Create](https://create.arduino.cc/editor) is the the recommended programming platform.
 * **Zoom Video Conferences:** A link will be provided on Slack

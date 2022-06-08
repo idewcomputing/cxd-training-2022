@@ -14,7 +14,7 @@
 
 Each project has three phases, where programming is a very important component of all three. **Our** [**Innovation Workshop**](broken-reference) **covers the breadth of the Computing by Design framework.** We have found that the programming in any project presents a fine line between a wonderfully empowering experience (when students struggle and get things working) and a sometimes frustrating experience that becomes a missed opportunity. Therefore we are offering these programming workshops to provide a solid foundation on building the applications.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ### Learning to Program: A Two-Pronged Approach
 

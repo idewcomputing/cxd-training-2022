@@ -24,4 +24,4 @@ While the project guide, linked below, can be used as-is in your classroom, you 
    ****The same Zoom link will be used for this meeting
 4. **Continue posting questions and sharing success in Slack `#`**`short-project-cs-for-language-arts` **** as you complete your project example and adapted project instructions.
 5. **Submit your project example and adapted project instructions for the workshop deliverable by July 11, 2022.  🎉**\
-   ****![](<../.gitbook/assets/image (5) (1).png>)****
+   ****![](<../.gitbook/assets/image (5) (1) (1).png>)****
