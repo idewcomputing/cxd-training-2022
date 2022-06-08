@@ -12,8 +12,6 @@
 ### All posted times are Eastern Daylight Time (EDT)
 {% endhint %}
 
-#### ⏱ Detailed agenda coming soon...
-
 ## **Workshop Resources**
 
 * **Slack Channel:** _#programming-video-game_ in the CxD 2022 Slack Workspace
