@@ -1,3 +1,7 @@
+---
+description: For High School and Middle Schools
+---
+
 # Prepare a Full CS Experience
 
 ### **Welcome and Getting Started**
@@ -14,7 +18,7 @@ This workshop is part of the CSPD Week for 2022 (June 27 - July 1).
 
 ## Tentative Outline for the Week
 
-Ultimately, we will adapt to make this the most productive time we can for everybody. This workshop is primarily focused on project-based activities for the full development computing products the solve problems, using research, design, prototyping, teamwork, planning, and presentations. While this work shop is not heavily focused on programming ([**we have specific workshops for programming**](https://docs.idew.org/cxd2022/)), we can definitely allocate quality time to programming anything you want.
+Ultimately, we will adapt to make this the most productive time we can for everybody. This workshop is primarily focused on project-based activities for the full development of computing products that solve problems using techniques in research, design, prototyping, teamwork, planning, and presentations. While this work shop is not heavily focused on programming ([**we have specific workshops for programming**](https://docs.idew.org/cxd2022/)), we can definitely allocate quality time to programming anything you want.
 
 * **DAY 1 - FOUNDATIONS**
   * Introductions and Survey of Objectives
