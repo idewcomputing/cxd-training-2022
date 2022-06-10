@@ -25,3 +25,17 @@ While the project guide, linked below, can be used as-is in your classroom, you 
 4. **Continue posting questions and sharing success in Slack `#`**`short-project-cs-for-math-and-science` **** as you complete your project example and adapted project instructions.
 5. **Submit your project example and adapted project instructions for the workshop deliverable by July 11, 2022.  🎉**\
    ****![](<../.gitbook/assets/image (6) (1).png>)****
+
+## Workshop Prep
+
+### Getting Started with Slack
+
+{% embed url="https://www.loom.com/share/351f4100d55045a0a04b3ec078ffaa39" %}
+
+Slack will be our primary communication platform for the workshop. The video above provides a brief introduction on the features of Slack, but more help and tutorials can be found at [https://slack.com/help](https://slack.com/help).
+
+### Getting Started with Replit
+
+{% embed url="https://www.loom.com/share/cb321527b8d14c3dadd5d5329a6b0d34" %}
+
+Replit is the recommended programming environment for many of our projects. The video above provides a brief introduction on the features of Replit, but more help and tutorials can be found at [https://docs.replit.com/](https://docs.replit.com/).
