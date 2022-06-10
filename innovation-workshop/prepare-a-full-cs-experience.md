@@ -2,7 +2,7 @@
 
 ### **Welcome and Getting Started**
 
-![](../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/c2ae688a6e674599ad0b5857550b380d" %}
 
 ### Prepare for a full-semester PBL experience in computer science engaging the breadth of work in building a product using design, data, and programming.
 
