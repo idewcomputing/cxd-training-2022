@@ -15,7 +15,7 @@
 ## **Workshop Resources**
 
 * **Slack Channel:** _#programming-iot_ in the CxD 2022 Slack Workspace
-* **Documentation Link:** [IoT Code Reference and Tutorials](https://docs.idew.org/code-internet-of-things/)\
+* **Documentation Link:** [IoT Code Reference and Tutorials 2.0 (Under Development in Summer 2022)](https://docs.idew.org/code-internet-of-things-2.0/)\
   Note: The CxD IoT project provides two online documents. One document for the broader project instructions that include things like research, design and implementation. The second document is a code reference for programming. In this workshop we will focus on the programming and use the _code reference document._\
   __![](<../.gitbook/assets/image (5).png>)__
 * **Programming Platforms**&#x20;
