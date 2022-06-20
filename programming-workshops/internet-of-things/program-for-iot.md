@@ -30,7 +30,7 @@ We will use the Particle tutorial for the IoT kit linked below to guide us, but 
 
 Covering concepts from the _**Particle Variables: measure temperature & humidity**_ section of the tutorial. _****_ [https://docs.particle.io/quickstart/isk-project/#particle-variables-measure-temperature-amp-humidity](https://docs.particle.io/quickstart/isk-project/#particle-variables-measure-temperature-amp-humidity)
 
-![](../../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/34d091fc693f443096531d8b050f9b25" %}
 
 #### 1. Create a new program in Particle build.
 
