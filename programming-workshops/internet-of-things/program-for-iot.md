@@ -4,7 +4,7 @@
 
 ## Introduction
 
-![](../../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/0fdf84f422274bb6827421523b66c483" %}
 
 ## Claiming Your IoT Device
 
