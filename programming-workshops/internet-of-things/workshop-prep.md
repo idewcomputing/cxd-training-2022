@@ -38,6 +38,6 @@ Replit is the recommended programming environment for many of our projects. The 
 
 ## Getting Started with Particle Build Editor
 
-![](../../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/7c8a97abc88f4ce9a7dc52c4baea92bb" %}
 
 Particle offers a web-based editor ([https://build.particle.io/build/](https://build.particle.io/build/)) that makes programming a device pretty easy. To prepare for the workshop you will want to create a Particle account and know how to access the programming environment. We will get to actually programming a little bit later.
