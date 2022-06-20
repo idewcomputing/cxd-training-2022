@@ -4,7 +4,7 @@
 
 {% embed url="https://www.loom.com/share/18c71d8920204245bdf764caa919e8e4" %}
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 ### Choose one or more workshops to meet your needs.&#x20;
 
