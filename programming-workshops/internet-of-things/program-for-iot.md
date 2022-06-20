@@ -20,6 +20,10 @@ We will use the Particle tutorial for the IoT kit to get familiar with the hardw
 
 {% embed url="https://docs.particle.io/quickstart/isk-project/" %}
 
+{% hint style="warning" %}
+**This page comes in very handy for interpreting the different status LED signals you may get from time to time.** [**https://docs.particle.io/troubleshooting/led/argon/**](https://docs.particle.io/troubleshooting/led/argon/)****
+{% endhint %}
+
 ## Complete a Custom IoT Project
 
 After completing the particle tutorial, develop a custom application with a subset of the provided hardware that solves a problem **with web-enabled features**. Simple examples (Thermostat and Door Bell) will be posted as we progress. Again, let's share successes and roadblocks liberally in Slack to help each other and inspire ideas.&#x20;
