@@ -6,6 +6,14 @@
 
 ![](../../.gitbook/assets/vidComing.png)
 
+## Claiming Your IoT Device
+
+This video steps you through claiming a particle device and setting up WIFI. You will want your mobile phone to complete this with the Particle App installed. \
+Apple: [https://apps.apple.com/us/app/particle-iot/id991459054](https://apps.apple.com/us/app/particle-iot/id991459054)\
+Android: [https://play.google.com/store/apps/details?id=io.particle.android.app\&hl=en\_US](https://play.google.com/store/apps/details?id=io.particle.android.app\&hl=en\_US)
+
+{% embed url="https://www.youtube.com/watch?index=2&list=PLIeLC6NIW2tKvC5W007j_PU-dxONK_ZXR&v=xymSayKBGbg" %}
+
 ## IoT Tutorial
 
 We will use the Particle tutorial for the IoT kit to get familiar with the hardware, sensors, and programming. Post questions and successes in our Slack channel as you move along.
