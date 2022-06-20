@@ -22,3 +22,9 @@
   * [Particle Build ](https://build.particle.io/)is the recommended programming platform for the IoT Board.
   * [Replit.com](https://replit.com) is the recommended platform for web app programming.
 * **Zoom Video Conferences:** A link will be provided on Slack
+
+{% hint style="info" %}
+Here is the link to the original Code Reference that uses the _no longer available_ Sparkfun Inventor's Kit. You may find this useful as the documentation is being updated for the new IoT kit.\
+\
+[https://docs.idew.org/code-internet-of-things/](https://docs.idew.org/code-internet-of-things/)
+{% endhint %}
