@@ -2,13 +2,13 @@
 
 ## Agenda (1 hour)
 
-* **Welcome**
+* **Welcome and Introductions**
 * **Quick Survey**
-* **Introductions**
 * **Review of Workshop Format and Sequence**
 * **Key Pointers**
   * **Sharing Code via Slack**
-  * **Feel Free to Use Video Too**
+  * **Searching the Internet for Code Help**
+  * **Online Tutorials and Other Resources**
   * **Look for Patterns and Analogies You Can Identify With**
 * **Information on **_**School of Informatics and Computing**_** Degrees**
 * **Open Discussion and Wrap Up**
