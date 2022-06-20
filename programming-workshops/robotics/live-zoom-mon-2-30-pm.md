@@ -2,9 +2,7 @@
 
 ## Agenda (1 hour)
 
-* **Welcome**
-* **Quick Survey**
-* **Introductions**
+* **Welcome, Introductions, & About iDEW/CxD**
 * **Review of Workshop Format and Sequence**
 * **Key Pointers**
   * **Sharing Code via Slack**
