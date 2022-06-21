@@ -89,3 +89,48 @@ We are covering concepts from the _**Particle Functions: controlling a Chainable
 ![](../../.gitbook/assets/vidComing.png)
 
 Instructions coming soon...
+
+#### 1. Create a new program in Particle build.
+
+#### 2. Connect the Grove Chainable LED to A4, and have your Argon device connected.
+
+#### 3. Include the "Grove\_ChainableLED**" library in your program.**
+
+#### 4. Copy and paste the code below (except of the #include part) into your program.
+
+```arduino
+// This #include statement was automatically added by the Particle IDE.
+#include <Grove_ChainableLED.h>
+ChainableLED leds(A4, A5, 1);
+
+void setup() {
+    leds.init();
+    leds.setColorHSB(0, 0.0, 0.0, 0.0);
+    Particle.function("toggleLed", toggleLed);
+}
+
+void loop() {
+    // toggleLed("");
+}
+
+int toggleLed(String args) {
+    leds.setColorHSB(0, 0.0, 1.0, 0.5);
+    delay(500);
+    leds.setColorHSB(0, 0.0, 0.0, 0.0);
+    delay(500);
+    return 
+```
+
+**5. Save, Verify, and Flash the code to the Argon board.**
+
+#### **6. Open the Console from particle build, select "my devices", and select your Argon.**
+
+#### **7. Call the** toggleLed function to pulse the LED one time.
+
+![](<../../.gitbook/assets/image (4).png>)
+
+#### That's it for this step 🎉. If you are having any problems, no worry, post in our slack channel. Please share your code when it makes sense or create videos.
+
+### Reference Material for the IoT Kit Hardware
+
+{% embed url="https://docs.particle.io/quickstart/isk-project/#appendix-grove-sensor-resources" %}

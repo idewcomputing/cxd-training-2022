@@ -10,7 +10,7 @@
 
 **This workshop is focused squarely on the programming component of a CxD Project.** For a little bit of background, you will find that the Computing by Design framework is project-centric in the approach.&#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Each project has three phases, where programming is a very important component of all three. **Our** [**Innovation Workshop**](broken-reference) **covers the breadth of the Computing by Design framework.** We have found that the programming in any project presents a fine line between a wonderfully empowering experience (when students struggle and get things working) and a sometimes frustrating experience that becomes a missed opportunity. Therefore we are offering these programming workshops to provide a solid foundation on building the applications.
 
