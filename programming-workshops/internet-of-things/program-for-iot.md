@@ -94,6 +94,8 @@ Instructions coming soon...
 
 #### 2. Connect the Grove Chainable LED to A4, and have your Argon device connected.
 
+![](<../../.gitbook/assets/image (10).png>)![](<../../.gitbook/assets/image (11).png>)
+
 #### 3. Include the "Grove\_ChainableLED**" library in your program.**
 
 #### 4. Copy and paste the code below (except of the #include part) into your program.
