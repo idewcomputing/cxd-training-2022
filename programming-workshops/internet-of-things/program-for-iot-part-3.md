@@ -2,7 +2,7 @@
 
 ## Complete a Custom IoT Project
 
-After completing the particle tutorial, develop a custom application with a subset of the provided hardware that solves a problem **with web-enabled features**. Simple examples (Thermostat and Door Bell) will be posted as we progress. Again, let's share successes and roadblocks liberally in Slack to help each other and inspire ideas.&#x20;
+After completing the particle tutorials, develop a custom application with a subset of the provided hardware that solves a problem **with web-enabled features**. Simple examples (Thermostat and Door Bell) will be posted as we progress. Again, let's share successes and roadblocks liberally in Slack to help each other and inspire ideas.&#x20;
 
 ### Thermostat Project Example
 
