@@ -136,4 +136,6 @@ int toggleLed(String args) {
 
 ### Reference Material for the IoT Kit Hardware
 
+[https://docs.particle.io/quickstart/isk-project/#appendix-grove-sensor-resources](https://docs.particle.io/quickstart/isk-project/#appendix-grove-sensor-resources)
+
 {% embed url="https://docs.particle.io/quickstart/isk-project/#appendix-grove-sensor-resources" %}
