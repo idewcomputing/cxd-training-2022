@@ -120,7 +120,8 @@ int toggleLed(String args) {
     delay(500);
     leds.setColorHSB(0, 0.0, 0.0, 0.0);
     delay(500);
-    return 
+    return 1
+}    
 ```
 
 **5. Save, Verify, and Flash the code to the Argon board.**
