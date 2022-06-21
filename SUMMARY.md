@@ -55,9 +55,9 @@
   * [Live Zoom: Mon 2:30 pm ⏰](programming-workshops/internet-of-things/live-zoom-mon-2-30-pm.md)
   * [Programming Warm-Up ⏱](programming-workshops/internet-of-things/programming-warm-up.md)
   * [Teacher Insights](programming-workshops/internet-of-things/teacher-insights.md)
-  * [Program for IoT ⏱](programming-workshops/internet-of-things/program-for-iot.md)
-  * [Program for IoT Part 2](programming-workshops/internet-of-things/program-for-iot-part-2.md)
-  * [Program for IoT Part 3](programming-workshops/internet-of-things/program-for-iot-part-3.md)
+  * [Program for IoT Part 1 ⏱](programming-workshops/internet-of-things/program-for-iot-part-1.md)
+  * [Program for IoT Part 2 ⏱](programming-workshops/internet-of-things/program-for-iot-part-2.md)
+  * [Program for IoT Part 3 ⏱](programming-workshops/internet-of-things/program-for-iot-part-3.md)
   * [Live Zoom: Thur 2:30 pm ⏰](programming-workshops/internet-of-things/live-zoom-thur-2-30-pm.md)
   * [Workshop Deliverables](programming-workshops/internet-of-things/workshop-deliverables.md)
 
