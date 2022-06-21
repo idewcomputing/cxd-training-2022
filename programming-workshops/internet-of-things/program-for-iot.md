@@ -86,7 +86,7 @@ void loop() {
 
 We are covering concepts from the _**Particle Functions: controlling a Chainable LED**_ section of the tutorial. [https://docs.particle.io/quickstart/isk-project/#particle-functions-controlling-a-chainable-led](https://docs.particle.io/quickstart/isk-project/#particle-functions-controlling-a-chainable-led)
 
-![](../../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/e4a768da42d64a3f8a894f8be689437b" %}
 
 Instructions coming soon...
 
