@@ -82,7 +82,7 @@ void loop() {
 
 #### That's it for this step 🎉. If you are having any problems, no worry, post in our slack channel. Please share your code when it makes sense or create videos.
 
-### Controlling and LED
+### Controlling an LED
 
 We are covering concepts from the _**Particle Functions: controlling a Chainable LED**_ section of the tutorial. [https://docs.particle.io/quickstart/isk-project/#particle-functions-controlling-a-chainable-led](https://docs.particle.io/quickstart/isk-project/#particle-functions-controlling-a-chainable-led)
 
