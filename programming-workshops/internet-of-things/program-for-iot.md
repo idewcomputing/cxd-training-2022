@@ -120,7 +120,7 @@ int toggleLed(String args) {
     delay(500);
     leds.setColorHSB(0, 0.0, 0.0, 0.0);
     delay(500);
-    return 1
+    return 1;
 }    
 ```
 
