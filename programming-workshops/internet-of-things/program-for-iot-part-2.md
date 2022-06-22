@@ -6,7 +6,7 @@ description: Getting Started with a Web Interface to the IoT Device
 
 ## Programming a Web-enabled IoT Device
 
-![](../../.gitbook/assets/vidComing.png)
+{% embed url="https://www.loom.com/share/834e04afe9564102b325d517a9780f41" %}
 
 ### Program the Particle IoT Device
 
