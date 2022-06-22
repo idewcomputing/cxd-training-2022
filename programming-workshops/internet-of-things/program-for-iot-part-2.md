@@ -4,7 +4,7 @@ description: Getting Started with a Web Interface to the IoT Device
 
 # Program for IoT Part 2 ⏱
 
-## Programming for the Web Interface
+## Programming a Web-enabled IoT Device
 
 ![](../../.gitbook/assets/vidComing.png)
 
