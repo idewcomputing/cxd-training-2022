@@ -24,7 +24,7 @@
   * [Programming Warm-Up ⏱](programming-workshops/chatbot/programming-warm-up.md)
   * [Teacher Insights](programming-workshops/chatbot/teacher-insights.md)
   * [Program a Chatbot ⏱](programming-workshops/chatbot/program-a-chatbot.md)
-  * [Live Zoom: Wed 1:00 pm ⏰](programming-workshops/chatbot/live-zoom-wed-1-00-pm.md)
+  * [Live Zoom: Wed 2:30 pm (updated) ⏰](programming-workshops/chatbot/live-zoom-wed-2-30-pm-updated.md)
   * [Workshop Deliverables](programming-workshops/chatbot/workshop-deliverables.md)
 * [Data Visualization](programming-workshops/data-visualization/README.md)
   * [Workshop Prep](programming-workshops/data-visualization/workshop-prep.md)
