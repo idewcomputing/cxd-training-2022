@@ -160,3 +160,7 @@ function toggleLight() {
 ### That's it for our first web-enabled IoT experiment 🎉.&#x20;
 
 #### ★ If you are having any problems, no worry, post in our slack channel. Please share your code when it makes sense or create videos.
+
+## For Reference
+
+{% embed url="https://docs.particle.io/reference/cloud-apis/javascript/#responses" %}
