@@ -1,9 +1,10 @@
 # Workshop Deliverables
 
-For the programming workshops we simply request that you submit the following two items.
+For the IoT programming workshop we simply request that you submit the following three items in a document.
 
-1. **A link to your working code (e.g. replit.com) that demonstrates completion and customization of tutorial material.**
-2.  **A summary of your classroom plan**
+1. **A link to your working web app code (e.g. replit.com) that connects to your IoT board.**
+2. **A copy of your Particle Build code.**
+3.  **A summary of your classroom plan**
 
     * **Consider how you will approach classroom management when students are completing a tutorial like this one.**&#x20;
       * What will be your expectations?&#x20;
