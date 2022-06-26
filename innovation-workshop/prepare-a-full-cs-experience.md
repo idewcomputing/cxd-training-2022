@@ -1,5 +1,5 @@
 ---
-description: For High School and Middle Schools
+description: For High Schools and Middle Schools
 ---
 
 # Prepare a Full CS Experience
